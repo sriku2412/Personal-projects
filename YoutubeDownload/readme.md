@@ -1,5 +1,5 @@
 # YouTube Video and Playlist Downloader
-![Study Space]("C:\Users\srika\OneDrive\Documents\York\Sem-3 york\Youtube\Source\YoutubeResearcher-image.webp")
+![Study Space]("YoutubeResearcher-image.webp")
 
 
 
