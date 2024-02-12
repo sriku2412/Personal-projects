@@ -1,5 +1,6 @@
 # YouTube Video and Playlist Downloader
-![Study Space]("https://raw.githubusercontent.com/sriku2412/Personal-projects/main/YoutubeDownload/YoutubeResearcher-image.webp")
+![Alt text](https://raw.githubusercontent.com/sriku2412/Personal-projects/main/YoutubeDownload/YoutubeResearcher-image.webp)
+
 
 
 
