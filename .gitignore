@@ -2,4 +2,4 @@ practice.ipynb
 todo.ipynb
 # .gitignore
 
-.venv/
+venv/
